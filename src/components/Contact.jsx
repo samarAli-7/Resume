@@ -92,7 +92,7 @@ export default function Contact() {
           <SocialCard
             title="LinkedIn"
             subtitle="Professional Profile"
-            link="https://www.linkedin.com/in/samar-ali-8a43583a0/"
+            link="https://www.linkedin.com/in/samar-ali-022540399"
           />
           <SocialCard
             title="Instagram"
