@@ -24,7 +24,7 @@ function Footer() {
         <span>||</span>
 
         <a
-          href="https://www.linkedin.com/in/samar-ali-8a43583a0/"
+          href="https://www.linkedin.com/in/samar-ali-022540399"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:underline"
