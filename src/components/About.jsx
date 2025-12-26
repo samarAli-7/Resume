@@ -238,11 +238,12 @@ function About() {
             "
           >
             <h3 className="text-lg sm:text-xl md:text-2xl font-semibold mb-3">
-              Bachelor of Engineering
+              Bachelor of Technology
             </h3>
             <p className="text-gray-600 text-sm sm:text-base md:text-lg">
               First-year Engineering Student <br />
-              Delhi Government Engineering College
+              Delhi Technological University (DTU)
+
             </p>
           </motion.div>
         </section>
